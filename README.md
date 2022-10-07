@@ -1,2 +1,3 @@
 # Android-Hacktoberfest2022
-Android java project for Hacktoberfest 2020
+Android java project for Hacktoberfest 2022
+Maintained by Ryuukenshi
